@@ -1,5 +1,4 @@
 theme: jekyll-theme-hacker
 title: Hari Prasanth
 description: Luck doesn't exist but MATH and SCIENCE does!
-
-!({{ site.url }}/assts/saitama.png)
+image: /assets/saitama.png
